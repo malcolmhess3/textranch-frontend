@@ -1,6 +1,6 @@
 import FingerprintJS from '@fingerprintjs/fingerprintjs'
 import { useEffect, useState } from 'react'
-import "./app.css"
+import "./App.css"
 
 function App() {
   
